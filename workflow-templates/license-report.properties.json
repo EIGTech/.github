@@ -1,0 +1,10 @@
+{
+    "name": "Apply Package Report Workflow",
+    "description": "Runs a license report on PR and updates the PRs with any license changes",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+    ]
+}
